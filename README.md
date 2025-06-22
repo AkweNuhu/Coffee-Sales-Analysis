@@ -1,4 +1,4 @@
-This Analysis involves the transformation of raw data in to a workable data for Coffee sales.
+This analysis involves the transformation of raw data in to a workable data for Coffee sales.
 The Objectives is to show the following: 
 We started by gathering the data, cleanig the data, followed by creating pivot tables and charts to visualized perfomance.  
   The dashboard shows sales trend over time,  Sales by Country,  Top 5 Customers,  and filter with key metrics such as coffee size, coffee type, coffee names, Roast type and loyalty keys to make an informed decision
