@@ -11,4 +11,4 @@ The objectives of the analysis involves the following:
 
 (4) Filter with key metrics such as coffee size, coffee type, coffee names, Roast type and loyalty keys to have the real views
 
- ![Dashboard](https://github.com/user-attachments/assets/78e370de-642e-4f8d-ac3a-e90da0f36f7f)
+ ![Dashboard])
